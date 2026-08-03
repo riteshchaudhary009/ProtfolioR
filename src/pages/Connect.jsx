@@ -107,7 +107,7 @@ const Connect = () => {
                 {/* Replace with actual image */}
                 <img
                   src="./pro1.jpg"
-                  alt="Aadarsh Shrivastav"
+                  alt="Ritesh Kumar Chaudahry"
                   className="absolute inset-0 object-cover w-full h-full rounded-2xl opacity-90"
                 />
               </div>
@@ -199,7 +199,7 @@ const Connect = () => {
         {/* Action Buttons */}
         <div className="flex flex-col sm:flex-row justify-center gap-4 mt-10">
           <a
-            href="mailto:aadarshshrivastav01@gmail.com"
+            href="mailto:chaudharyritesh2077@gmail.com"
             className={`px-8 py-4 rounded-xl font-semibold shadow-lg transition-all duration-500 text-center ${
               isDark
                 ? "bg-blue-900 text-white hover:scale-110"
@@ -211,7 +211,7 @@ const Connect = () => {
           </a>
 
           <a
-            href=""
+            href="https://wa.me/9862085806"
             className={`px-8 py-4 rounded-xl border-2 font-semibold transition-all duration-500 text-center ${
               isDark
                 ? "border-blue-900 text-blue-400 hover:bg-green-600 hover:text-white hover:border-green-600"
