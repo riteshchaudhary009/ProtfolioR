@@ -76,8 +76,8 @@ const Work = () => {
       title: "My Portfolio",
       desc: "My Portfolio — A personal website showcasing my skills, projects, and journey as a developer with smooth animations and dark/light mode.",
       img: "./myport.png",
-      live: "https://my-portfolio-omega-tawny-21.vercel.app",
-      git: "https://github.com/Aadarsh-max/My-Portfolio",
+      live: "https://portfolio-bank.vercel.app/",
+      git: "https://github.com/riteshchaudhary009/PortfolioBank",
       tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
     },
   ];
