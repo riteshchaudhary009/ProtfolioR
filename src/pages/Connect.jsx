@@ -70,7 +70,7 @@ const Connect = () => {
     {
       icon: <Facebook className="w-5 h-5" />,
       label: "Facebook",
-      link: "",
+      link: "https://www.facebook.com/",
     },
     {
       icon: <Youtube className="w-5 h-5" />,
