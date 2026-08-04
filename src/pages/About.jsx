@@ -225,7 +225,7 @@ const About = () => {
                   Content Creator
                 </h3>
                 <p className={textPrimary}>
-                  YouTube channel @SkillCoder-By_Aadarsh sharing development
+                  YouTube channel development
                   insights
                 </p>
               </div>

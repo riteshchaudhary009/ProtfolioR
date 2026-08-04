@@ -44,8 +44,8 @@ const Work = () => {
       title: "Expense Tracker",
       desc: "Expense Tracker — Smart MERN app for managing income & expenses with charts and dashboards for financial insights.",
       img: "./expense.png",
-      live: "https://expense-tracker-gamma-dun.vercel.app",
-      git: "https://github.com/Aadarsh-max/Expense-Tracker",
+      live: "https://expenses-tracker-f.vercel.app/",
+      git: "https://github.com/riteshchaudhary009/expenses-tracker-f",
       tech: ["React", "Charts.js", "MongoDB", "Node.js"],
     },
     {
