@@ -49,12 +49,12 @@ const Work = () => {
       tech: ["React", "Charts.js", "MongoDB", "Node.js"],
     },
     {
-      title: "Streamify",
-      desc: "Streamify — A MERN-based app for connecting, chatting, and collaborating with people globally through text and video communication.",
-      img: "./streamify.png",
-      live: "https://streamify-app-47nz.onrender.com",
-      git: "https://github.com/Aadarsh-max/Streamify",
-      tech: ["React", "WebRTC", "Socket.io", "Node.js"],
+      title: "Movie-Q",
+      desc: "Movie-Q— A Html,css app for connecting, chatting, and collaborating with people globally through text and video communication.",
+      img: "./movie-Q.png",
+      live: "https://movie-q-iota.vercel.app/",
+      git: "https://github.com/riteshchaudhary009/MOVIE-Q",
+      tech: ["HTML", "CSS"],
     },
     {
       title: "Resume Builder",
