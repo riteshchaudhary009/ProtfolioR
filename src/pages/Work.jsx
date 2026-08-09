@@ -25,12 +25,13 @@ const Work = () => {
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },
     {
-      title: "SnipScan",
-      desc: "SnipScan — A responsive URL Shortener app built with MERN, enabling users to create short links and QR codes for easy sharing and scanning.",
-      img: "./url.png",
-      live: "https://url-shortner-frontend-phi.vercel.app",
-      git: "https://github.com/Aadarsh-max/SnipScan",
-      tech: ["React", "Node.js", "MongoDB", "QR Code"],
+      title: "Weather App",
+      desc: "Weather App — A simple yet powerful weather application built with React, providing accurate forecasts and real-time updates.",
+      img: "./weather.png",
+      live: "https://weather-app-hazel-seven-92.vercel.app/",
+      git: "https://github.com/riteshchaudhary009/WeatherApp",
+      tech: ["React", "OpenWeather API"],
+
     },
     {
       title: "Mission Dream",
