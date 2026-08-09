@@ -65,12 +65,12 @@ const Work = () => {
       tech: ["React", "PDF.js", "MongoDB", "Node.js"],
     },
     {
-      title: "Microsys Computers",
-      desc: "Microsys Computers — My first earning project, a professional business website built with modern web technologies.",
-      img: "./microsys.png",
-      live: "https://microsys-computers.vercel.app",
-      git: "https://github.com/Aadarsh-max/Microsys-Computers",
-      tech: ["React", "Tailwind", "Node.js", "MongoDB"],
+      title: "Dencity Dental Care",
+      desc: "Dencity Dental Clinic — A professional website for a dental clinic, showcasing services, staff, and patient testimonials.",
+      img: "./dental.png",
+      live: "https://dencity-ochre.vercel.app/",
+      git: "https://github.com/riteshchaudhary009/dencity",
+      tech: ["HTML", "CSS", "JavaScript"],
     },
     {
       title: "My Portfolio",
