@@ -33,12 +33,12 @@ const Work = () => {
       tech: ["React", "Node.js", "MongoDB", "QR Code"],
     },
     {
-      title: "PrepMateAI",
-      desc: "PrepMateAI — AI-powered interview prep tool using Google's Gemini AI. Get tailored technical questions, code snippets, and saved sessions.",
-      img: "./ai.png",
-      live: "https://prepmate-ai-nine.vercel.app",
-      git: "https://github.com/Aadarsh-max/PrepMateAI",
-      tech: ["React", "Gemini AI", "Node.js", "MongoDB"],
+      title: "Mission Dream",
+      desc: "Mission Dream — this is a first bank app for saving money.",
+      img: "./bank.png",
+      live: "https://myprofile-mu-two.vercel.app/",
+      git: "https://github.com/riteshchaudhary009/myprofile",
+      tech: ["React", "Node.js", "MongoDB"],
     },
     {
       title: "Expense Tracker",
