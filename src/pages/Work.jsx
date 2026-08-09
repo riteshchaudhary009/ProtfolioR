@@ -50,7 +50,7 @@ const Work = () => {
     },
     {
       title: "Movie-Q",
-      desc: "Movie-Q— A Html,css app for connecting, chatting, and collaborating with people globally through text and video communication.",
+      desc: "Movie-Q— A Html,css app for connecting, People, and collaborating with and video .",
       img: "./movie-Q.png",
       live: "https://movie-q-iota.vercel.app/",
       git: "https://github.com/riteshchaudhary009/MOVIE-Q",
